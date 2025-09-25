@@ -1,2 +1,3 @@
 Hello from file1
 Updated content
+Updated content
